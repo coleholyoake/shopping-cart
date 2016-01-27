@@ -6,3 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
+
+	<?php
+		echo '<pre>';
+		//show the contents of the cart
+		print_r($_SESSION['cart']);
+		echo '</pre>';
+	?>
