@@ -7,9 +7,16 @@
 </head>
 <body>
 
+<nav>
+	<ul>
+		<li><a href="index.php">Index</a></li>
+		<li><a href="checkout.php">Checkout</a></li>
+	</ul>
+</nav>
+
 	<?php
-		echo '<pre>';
-		//show the contents of the cart
-		print_r($_SESSION['cart']);
-		echo '</pre>';
+		// echo '<pre>';
+		// //show the contents of the cart
+		// print_r($_SESSION['cart']);
+		// echo '</pre>';
 	?>
