@@ -1,4 +1,4 @@
-	
+<br>	
 <a href="index.php?clearcart">Clear cart</a>
 
 
