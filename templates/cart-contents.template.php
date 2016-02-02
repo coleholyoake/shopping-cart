@@ -28,7 +28,8 @@
 	<?php $grandTotal += ($product['price'] * $product['quantity']); ?>
 
 
-<?php endforeach; ?>	<tr>
+<?php endforeach; ?>	
+	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
